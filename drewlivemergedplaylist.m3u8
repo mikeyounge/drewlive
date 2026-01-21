@@ -319,12 +319,6 @@ https://tvpass.org/live/BBCAmericaEast/sd
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 #EXTINF:-1 tvg-name="BBC News North America HD SD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TVPass",BBC News North America HD SD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-#EXTINF:-1 tvg-name="BET Eastern Feed HD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="TVPass",BET Eastern Feed HD
-https://tvpass.org/live/BETEast/hd
-#EXTINF:-1 tvg-name="BET Eastern Feed SD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="TVPass",BET Eastern Feed SD
-https://tvpass.org/live/BETEast/sd
-#EXTINF:-1 tvg-name="BET Her SD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="TVPass",BET Her SD
-https://tvpass.org/live/BETHerEast/sd
 #EXTINF:-1 tvg-name="Big Ten Network SD" tvg-id="big-ten-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="TVPass",Big Ten Network SD
 https://tvpass.org/live/BTN/sd
 #EXTINF:-1 tvg-name="Bloomberg TV USA HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TVPass",Bloomberg TV USA HD
@@ -1081,8 +1075,6 @@ https://v18.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=5bJfPXpySUoqY15OfQ
 https://v1.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=BZYDHJrxpyBQm8e09_s_xQ&expires=1769002453&user_id=RnAyU0RWSjliVE9mUEptRTNiQkt1NzB0clBEa3owTVV4cVk1WHJqVg==
 #EXTINF:-1 tvg-name="American Heroes Channel HD" tvg-id="american-heroes-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" group-title="TheTVApp",American Heroes Channel HD
 https://v15.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8?token=wSfqyQieSRBW1mnz_99DqA&expires=1769002316&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
-#EXTINF:-1 tvg-name="BET Her HD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="TheTVApp",BET Her HD
-https://v18.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8?token=glDkz3DDErZI_ZGpz-fnHw&expires=1769002320&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
 #EXTINF:-1 tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang HD
 https://v8.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=KG4IVfz-KoC40mQ_CEekiQ&expires=1769002324&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
 #EXTINF:-1 tvg-name="Destination America HD" tvg-id="destination-america" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="TheTVApp",Destination America HD
@@ -1117,10 +1109,6 @@ https://v15.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8?token=U_VmWZf
 https://v15.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=24Zza_egGYDcH2PceUwyvg&expires=1769002317&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
 #EXTINF:-1 tvg-name="BBC World News HD HD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TheTVApp",BBC World News HD HD
 https://v18.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=0U-PcCLa4bnWbN9-1VMAnQ&expires=1769002319&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
-#EXTINF:-1 tvg-name="BET HD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="TheTVApp",BET HD
-https://v18.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8?token=glDkz3DDErZI_ZGpz-fnHw&expires=1769002320&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
-#EXTINF:-1 tvg-name="BET Her HD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="TheTVApp",BET Her HD
-https://v18.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8?token=glDkz3DDErZI_ZGpz-fnHw&expires=1769002320&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
 #EXTINF:-1 tvg-name="Bloomberg TV HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TheTVApp",Bloomberg TV HD
 https://v18.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=yMHY5-nQXF4gxNXt8u9LlQ&expires=1769002324&user_id=ZWdYcUwzR0t6S0dlaFhha29OT1pqU2dWUGhlSzJ5Q1VNMmZWMUJvRg==
 #EXTINF:-1 tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang HD
@@ -1893,8 +1881,6 @@ https://jmp2.uk/stvp-US14000119Q
 https://jmp2.uk/stvp-USAJ4300001Q7
 #EXTINF:-1 tvg-id="US2700004DX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20240826T235608SQUARE.png" tvg-chno="3822" group-title="SamsungTVPlus - USA",beIN Sports XTRA Ã± (USA)
 https://jmp2.uk/stvp-US2700004DX
-#EXTINF:-1 tvg-id="USBC450000130" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC450000130_20241112T000954SQUARE.png" tvg-chno="1555" group-title="SamsungTVPlus - USA",BET Pluto TV (USA)
-https://jmp2.uk/stvp-USBC450000130
 #EXTINF:-1 tvg-id="US37000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20241210T013843SQUARE.png" tvg-chno="2390" group-title="SamsungTVPlus - USA",Big 12 Studios (USA)
 https://jmp2.uk/stvp-US37000017A
 #EXTINF:-1 tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20250428T223415SQUARE.png" tvg-chno="2446" group-title="SamsungTVPlus - USA",Billiard TV (USA)
@@ -2985,8 +2971,6 @@ https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
 https://jmp2.uk/rok-09430bcd30bf5b30a96ca22ecb87e3e1.m3u8
 #EXTINF:-1 tvg-name="ViX Jajaja" tvg-id="c51c18ade0bd5b68b5e9bfa83410e372" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c51c18ade0bd5b68b5e9bfa83410e372/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481111596_JAJAJA_HUD_Logo_260x147.png" tvg-chno="1004" group-title="RokuTV",ViX Jajaja
 https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8
-#EXTINF:-1 tvg-name="ViX Novelas en familia" tvg-id="1d889b474b205fe385a2c552aa909b94" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1d889b474b205fe385a2c552aa909b94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751831441_NovelasEnFamilia_RokuHub_260x147_White.png" tvg-chno="1000" group-title="RokuTV",ViX Novelas en familia
-https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
 #EXTINF:-1 tvg-name="WBTV News 3" tvg-id="bf7ee95e6a905222a1d24174120cc106" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bf7ee95e6a905222a1d24174120cc106/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746558434543_WBTV_EPG_Hud_LogoWBTV_HUD_logo_260x147_Centered.png" tvg-chno="4205" group-title="RokuTV",WBTV News 3
 https://jmp2.uk/rok-bf7ee95e6a905222a1d24174120cc106.m3u8
 #EXTINF:-1 tvg-name="Weathernation" tvg-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1e38b83ae2a56f09f4d2ee8ed206b35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1670264331925_WN_Roku_EPG_centered.png" tvg-chno="163" group-title="RokuTV",Weathernation
@@ -3105,16 +3089,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654932fa4d6d8f0008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68bb162bb3900870ec364cbe/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=9d4235e9-dc8e-463c-9752-5b620f7269f6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=f051b261-215c-45cd-a5d3-2d3e11305828&userId=&serverSideAds=true
 #EXTINF:-1 tvg-name="Best of Bobby Flay by Food Network" tvg-id="68bb167e00a2f063fdf7ee8f" tvg-logo="https://images.pluto.tv/channels/68bb167e00a2f063fdf7ee8f/colorLogoPNG_1757722144825.png" tvg-chno="3450" group-title="PlutoTV - United States",Best of Bobby Flay by Food Network
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68bb167e00a2f063fdf7ee8f/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=c5f30bda-cf67-45c5-bd1f-98ab64223b7f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=d2853137-a94b-4f9f-9cf1-ac1471c82a7a&userId=&serverSideAds=true
-#EXTINF:-1 tvg-name="BET Cinema" tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" tvg-chno="100" group-title="PlutoTV - United States",BET Cinema
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=04a694c0-0735-4329-a733-59b3ef6171c2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=498beda1-d5ba-467f-a285-dd0dbd7b244d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-name="BET Classics" tvg-id="60f85644a9493e0007a1f035" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png" tvg-chno="530" group-title="PlutoTV - United States",BET Classics
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=206d3b5a-4f90-4657-b248-9e44b88fb3eb&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=3c3341cf-6ddc-4f3e-91ad-ecb1879b4929&userId=&serverSideAds=true
-#EXTINF:-1 tvg-name="BET Comedy Movies" tvg-id="68c32d88f56983aba40052bd" tvg-logo="https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png" tvg-chno="105" group-title="PlutoTV - United States",BET Comedy Movies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68c32d88f56983aba40052bd/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=09b4ff8d-b300-4982-abc1-2c10dd17985f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=fdc411f0-ac8d-472b-a0bc-e3e30a9c176f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-name="BET Throwbacks" tvg-id="61326275b3c86a00078e4833" tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png" tvg-chno="320" group-title="PlutoTV - United States",BET Throwbacks
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=7c7f918b-b419-47e2-9446-973fb0da4a3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=dcb08f10-0fc4-4cee-8b45-8cd48e843411&userId=&serverSideAds=true
-#EXTINF:-1 tvg-name="BET Visionaries" tvg-id="663946c1b18d700008d9c168" tvg-logo="https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png" tvg-chno="110" group-title="PlutoTV - United States",BET Visionaries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=b71f1efe-911c-4af7-8610-5d991246f4ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=53691b9e-015a-4c0b-91f1-03f597f55414&userId=&serverSideAds=true
 #EXTINF:-1 tvg-name="Beverly Hillbillies" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" tvg-chno="570" group-title="PlutoTV - United States",Beverly Hillbillies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=90161040-a888-4f31-9f7c-8632152d1b83&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=8e198d6e-2c02-4e5a-bc9c-68e341d20539&userId=&serverSideAds=true
 #EXTINF:-1 tvg-name="Beyond the Gates" tvg-id="687ff00ff6bc08130f16ab81" tvg-logo="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png" tvg-chno="2435" group-title="PlutoTV - United States",Beyond the Gates
@@ -3689,10 +3663,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-title="PlexTV - United States",BBC Earth
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8
-#EXTINF:-1 tvg-name="BET x Tyler Perry Comedy" tvg-id="5e20b730f2f8d5003d739db7-66635c20ca7b22f4c3a2d73f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/85978f12-c83c-4ef0-983d-8d215a49c62b/BET_TP_COMEDY_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="PlexTV - United States",BET x Tyler Perry Comedy
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635c20ca7b22f4c3a2d73f.m3u8
-#EXTINF:-1 tvg-name="BET x Tyler Perry Drama" tvg-id="5e20b730f2f8d5003d739db7-66635b07ca7b22f4c3a2d73d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab267644-9571-40ac-91a4-1c53586179a2/BET_TP_DRAMA_LOGO_VARIATION_-_Gabe_Evans__1_.png" group-title="PlexTV - United States",BET x Tyler Perry Drama
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635b07ca7b22f4c3a2d73d.m3u8
 #EXTINF:-1 tvg-name="Bravo Vault" tvg-id="5e20b730f2f8d5003d739db7-645e328fb164db00b4547f05" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/43deefc8c74a6bffb583fb38b5a7d35b.png" group-title="PlexTV - United States",Bravo Vault
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-645e328fb164db00b4547f05.m3u8
 #EXTINF:-1 tvg-name="BritBox Mysteries" tvg-id="5e20b730f2f8d5003d739db7-639a0b83812b6c1429f7acd1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6dec467-4010-490f-84c2-07f816211ef6/BritBox_MysteryMonth_channel_logo__full_color__Caitlin_Schiffer.png" group-title="PlexTV - United States",BritBox Mysteries
@@ -3819,10 +3789,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8
 #EXTINF:-1 tvg-name="BBC News (North America)" tvg-id="5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png" group-title="PlexTV - United States",BBC News (North America)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a.m3u8
-#EXTINF:-1 tvg-name="BET x Tyler Perry Comedy" tvg-id="5e20b730f2f8d5003d739db7-66635c20ca7b22f4c3a2d73f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/85978f12-c83c-4ef0-983d-8d215a49c62b/BET_TP_COMEDY_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="PlexTV - United States",BET x Tyler Perry Comedy
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635c20ca7b22f4c3a2d73f.m3u8
-#EXTINF:-1 tvg-name="BET x Tyler Perry Drama" tvg-id="5e20b730f2f8d5003d739db7-66635b07ca7b22f4c3a2d73d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab267644-9571-40ac-91a4-1c53586179a2/BET_TP_DRAMA_LOGO_VARIATION_-_Gabe_Evans__1_.png" group-title="PlexTV - United States",BET x Tyler Perry Drama
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635b07ca7b22f4c3a2d73d.m3u8
 #EXTINF:-1 tvg-name="Bizarre Foods with Andrew Zimmern" tvg-id="5e20b730f2f8d5003d739db7-66a2b83ef7180d8d2ca77f60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2caec99a-31fd-4a16-a158-5fe3ea530f59/BizarreFoodsWithAndrewZimmern_Logo_Dark_1500x1000.png" group-title="PlexTV - United States",Bizarre Foods with Andrew Zimmern
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2b83ef7180d8d2ca77f60.m3u8
 #EXTINF:-1 tvg-name="Bodas +" tvg-id="5e20b730f2f8d5003d739db7-671c1df4572427bfa1eb7ecf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/13a81dd4-e739-49a9-bf06-8146f6aae46e/Bodas__logo_WHT_RDX.png" group-title="PlexTV - United States",Bodas +
@@ -4397,22 +4363,6 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS" tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="MoveOnJoy" tvg-radio="false",BEIN SPORTS
 https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-name="BET" tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="MoveOnJoy" tvg-radio="false",BET
-https://fl1.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-name="BET" tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="MoveOnJoy" tvg-radio="false",BET (Alternate)
-https://streamer1.nexgen.bz/BET/index.m3u8
-#EXTINF:-1 tvg-name="BET GOSPEL" tvg-id="BET.GOSPEL.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="MoveOnJoy" tvg-radio="false",BET GOSPEL
-https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-name="BET HER" tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="MoveOnJoy" tvg-radio="false",BET HER
-https://fl1.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-name="BET HER" tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="MoveOnJoy" tvg-radio="false",BET HER (Alternate)
-http://41.205.93.154/BETHER/index.m3u8
-#EXTINF:-1 tvg-name="BET Jams" tvg-id="BET.Jams.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="MoveOnJoy" tvg-radio="false",BET Jams
-https://fl1.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-name="BET Music Selection" tvg-id="Music.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="MoveOnJoy" tvg-radio="false",BET Music Selection
-http://41.205.93.154/BET/index.m3u8
-#EXTINF:-1 tvg-name="BET SOUL" tvg-id="BET.Soul.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="MoveOnJoy" tvg-radio="false",BET SOUL
-https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="Big Ten Network HD" tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="MoveOnJoy" tvg-radio="false",Big Ten Network HD
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV US" tvg-id="Bloomberg.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="MoveOnJoy" tvg-radio="false",Bloomberg TV US
@@ -8221,16 +8171,6 @@ http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/16869
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/14606
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BEIN SPORTS XTRA
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17183
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BET
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/2071
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BET HER
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/2073
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BET JAMS
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/1826
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BET SOUL
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/1829
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BET WEST
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/2072
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BIG TEN NETWORK
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/2075
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | BIG TEN NETWORK 2
@@ -8761,8 +8701,6 @@ http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/1725
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17067
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | SHOWTIME WOMEN WEST
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/27541
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | SHOxBET
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/299495
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | SMITHSONIAN CHANNEL
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/1664
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="DrewLive Streams - USA",US | SMITHSONIAN CHANNEL WEST
